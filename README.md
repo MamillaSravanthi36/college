@@ -1,5 +1,5 @@
 # college
-college project
+First year - group project
 
 ## Introduction
 
